@@ -1,4 +1,4 @@
-# Harber Marketplace API (Hono)
+# hwx1
 
 A lightweight RESTful API for a demo marketplace, built with [Hono](https://hono.dev/) and deployed to Cloudflare Workers via **wrangler**.
 
