@@ -1,0 +1,1 @@
+This folder contains the built output assets for the worker "hono-api" generated at 2025-07-02T18:18:57.406Z.
